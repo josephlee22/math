@@ -1,3 +1,3 @@
 # math
 
-$$\sum_{f}^{\theta}$$
+$$\int_{f}^{\theta}$$
